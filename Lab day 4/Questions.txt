@@ -1,0 +1,17 @@
+Design a billing system for a billing store where the total bill can be calculated based on 
+i) Item price only 
+ii) Item price and quantity
+iii) Item price quantity and Discount percentage.
+Overload the gerenatebill function. to handle different billing requirements and Display the final payable amount.
+
+Q2) Develop a java program for configuring IOT devices in a Smart building. Devices may be initialized with 
+1) Default configuration
+2) device Id and location
+3) device ID location, newwork protocol and power rating.
+Use constructor Overloading to handle multiple device configuration Sinarios and display final device Settings.
+
+Q3) Write a Program in java to find 
+1) volume of the Sphere.
+2) Volume of a Cube.
+3) Volume of a cylender
+Using Function Overloading function.
